@@ -17,7 +17,11 @@ I’m enthusiastic about delving into new frameworks, libraries, and tools that 
 
 - **DevOps Practices:** Learning about deployment, CI/CD, and cloud services.
 - **Machine Learning:** Exploring how ML can be integrated into applications.
-- **GraphQL:** Understanding how to build efficient APIs.
+- **Blockchain**: Investigating innovative applications such as:
+  - **Decentralized Identity Solutions**: Creating secure, user-controlled digital identities to enhance privacy and reduce identity theft.
+  - **Supply Chain Transparency**: Using blockchain to track the provenance of products, ensuring authenticity and ethical sourcing.
+  - **Smart Contracts**: Automating agreements and transactions without intermediaries, reducing costs and increasing efficiency.
+  - **Decentralized Finance (DeFi)**: Exploring how blockchain can revolutionize traditional financial systems, enabling peer-to-peer lending and borrowing.
 
 ## 🌱 Always Learning
 
