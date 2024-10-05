@@ -4,7 +4,7 @@ I’m Gaurang, a passionate full-stack developer committed to creating innovativ
 
 ## 🔧 Full-Stack Development Skills
 
-- **Languages:** C, Python, Java
+- **Languages:** Python, Javascript
 - **Web Technologies:** React, Node.js
 - **Databases:** MongoDB
 - **Version Control:** Git
