@@ -5,7 +5,7 @@ I’m Gaurang, a passionate full-stack developer in the making committed to crea
 ## Skills
 
 - **Languages:** Python, Javascript
-- **Technologies:** React, Node.js, OpenCV
+- **Technologies:** React, Node.js, OpenCV, Turtle, Pygame, Express.js, Zod , Mongoose
 - **Databases:** MongoDB
 - **Version Control:** Git
 
