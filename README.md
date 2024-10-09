@@ -1,11 +1,11 @@
 # 👋 Welcome to My Profile!
 
-I’m Gaurang, a passionate full-stack developer committed to creating innovative applications. My journey in development has equipped me with a diverse skill set and a desire to continuously learn and grow.
+I’m Gaurang, a passionate full-stack developer in the making committed to creating innovative applications. My journey in development has equipped me with a diverse skill set and a desire to continuously learn and grow.
 
-## 🔧 Full-Stack Development Skills
+##Skills
 
 - **Languages:** Python, Javascript
-- **Web Technologies:** React, Node.js
+- **Technologies:** React, Node.js, OpenCV
 - **Databases:** MongoDB
 - **Version Control:** Git
 
