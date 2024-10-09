@@ -2,7 +2,7 @@
 
 I’m Gaurang, a passionate full-stack developer in the making committed to creating innovative applications. My journey in development has equipped me with a diverse skill set and a desire to continuously learn and grow.
 
-##Skills
+## Skills
 
 - **Languages:** Python, Javascript
 - **Technologies:** React, Node.js, OpenCV
